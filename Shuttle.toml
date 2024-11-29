@@ -1,4 +1,4 @@
-name = "wvm-archiver"
+name = "dymension-wvm-archiver"
 
 assets = [
     ".env"
